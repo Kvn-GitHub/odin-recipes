@@ -5,3 +5,23 @@ div {
     text-align: center;
     font-weight: bold;
 }
+
+.odd {
+    background-color: lightcoral;
+    font-family: verdana, DejaVu Sans, sans-serif;
+}
+
+.odd.diff {
+    font-size: 24px;
+}
+
+#blue {
+    color: blue;
+    font-size: 36px;
+}
+
+#green {
+    background-color: chartreuse;
+    font-size: 24px;
+    font-weight: bold;
+}
