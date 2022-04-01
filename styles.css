@@ -1,3 +1,5 @@
+/* classes use . while ids use # */
+
 .odd {
     background-color: lightcoral;
     font-family: verdana, DejaVu Sans, sans-serif;
@@ -5,6 +7,21 @@
 
 .odd.diff {
     font-size: 24px;
+}
+
+.left,
+.right {
+    font-size: 28px;
+    font-family: helvetica, 'Times New Roman', sans-serif;
+}
+
+.left {
+    background-color: black;
+    color: white;
+}
+
+.right {
+    background-color: yellow;
 }
 
 #blue {
